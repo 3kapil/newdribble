@@ -144,7 +144,7 @@ body {
   .bottom-left p {
     color: #343333;
     /* background-color: cadetblue; */
-    font-size: 2.5vh;
+    font-size: 1.9vh;
     font-weight: 600;
     line-height: 3.5vh;
   }
@@ -169,8 +169,9 @@ body {
     margin-right: 3vh;
   }
   .model {
-    height: 40vhvh;
-    width: 100vw;
+    height: 19vh;
+   background-size:contain; 
+width: 100vw;
   }
 }
 
