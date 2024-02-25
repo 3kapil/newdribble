@@ -126,7 +126,7 @@ body {
   }
   .center h1 {
     /* background-color: aquamarine; */
-    font-size: 6.9vh;
+    font-size: 5.7vh;
     font-weight: 600;
     line-height: 12vh;
     margin: 0vh;
@@ -134,7 +134,7 @@ body {
 
   .bottom-left {
     /* background-color: bisque; */
-    height: 40vh;
+    height: 45vh;
     margin: 4vh 0vh 10vh;
     display: flex;
     flex-direction: column;
